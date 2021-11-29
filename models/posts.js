@@ -12,6 +12,10 @@ const postSchema = new mongoose.Schema({
   },
   id : {
     type : Number
+  },
+  type : {
+    type :  String,
+    enum : ["Food","Animal","Surgery","Crime"]
   }
 })
 

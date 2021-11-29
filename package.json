@@ -10,7 +10,10 @@
     "apollo-datasource-rest": "^3.4.0",
     "apollo-server": "^3.5.0",
     "apollo-server-cache-memcached": "^3.3.0",
+    "body-parser": "^1.19.0",
+    "chart.js": "^3.6.0",
     "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
     "cross-fetch": "^3.1.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
@@ -19,6 +22,8 @@
     "jade": "~1.11.0",
     "mongoose": "^6.0.12",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "react-chartjs-2": "^4.0.0",
+    "stripe": "^8.190.0"
   }
 }
